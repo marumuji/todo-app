@@ -1,0 +1,54 @@
+.container {
+  width: 400px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 32pt;
+}
+
+.lists {
+  margin: 20px auto 10px;
+  padding-top: 20px;
+  border-collapse: collapse;
+}
+
+.task {
+  padding-right: 50px;
+}
+
+.todo-input {
+  width: 300px;
+  margin: 5px;
+  padding: 8px 4px;
+  font-size: 10pt;
+  border: 3px;
+  border-style: groove;
+}
+
+thead tr th {
+  border-bottom: 2px solid #7facc9;
+}
+
+button {
+  margin: 0 10px;
+  padding: 4px 8px;
+  font-size: 10pt;
+}
+
+ul {
+  margin-top: 20px;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  margin: 5px 0;
+  font-size: 14pt;
+}
+
+span {
+  margin: 0 5px;
+}
